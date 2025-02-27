@@ -65,6 +65,19 @@ body {
     align-items: center;
 }
 
+.header_sensory {
+    background-image: url('/assets/images/sensory_feedback_background.png');
+    background-color: rgba(255, 255, 255, 0.7);
+    background-blend-mode: lighten;
+	background-size:cover;
+	background-repeat: no-repeat;
+	background-position: center bottom;
+	min-height: 700px;
+	margin-top: -60px;
+	display: flex;
+    align-items: center;
+}
+
 .header_surreal {
     background-image: url('/assets/images/surrealHands.png');
     background-color: rgba(255, 255, 255, 0.7);
